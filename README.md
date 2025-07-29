@@ -1,2 +1,2 @@
-# Historia-cl-nica-digital
+# Historia-clinica-digital
 Sistema de historia clínica digital para pacientes
